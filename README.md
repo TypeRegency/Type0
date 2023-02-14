@@ -2,7 +2,7 @@
 ### Install di Termux
 ````
 pkg install nodejs-lts git tesseract libwebp wget imagemagick ffmpeg
-git clone https://github.com/salismazaya/whatsapp-bot
+git clone https://github.com/TypeRegency/Type0
 wget https://raw.githubusercontent.com/tesseract-ocr/tessdata_best/master/ind.traineddata
 mv ind.traineddata /data/data/com.termux/files/usr/share/tessdata 
 cd whatsapp-bot
@@ -16,7 +16,7 @@ sudo apt install npm git webp imagemagick ffmpeg
 sudo apt install tesseract-ocr tesseract-ocr-ind
 sudo npm install -g n
 sudo n stable
-git clone https://github.com/salismazaya/whatsapp-bot
+git clone https://github.com/TypeRegency/Type0
 cd whatsapp-bot
 npm install
 node index.js
