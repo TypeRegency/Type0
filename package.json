@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salismazaya/whatsapp-bot.git"
+    "url": "git+https://github.com/TypeRegency/Type0.git"
   },
   "author": "Salis Mazaya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/salismazaya/whatsapp-bot/issues"
+    "url": "https://github.com/TypeRegency/Type0/issues"
   },
-  "homepage": "https://github.com/salismazaya/whatsapp-bot#readme",
+  "homepage": "https://github.com/TypeRegency/Type0#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "axios": "^0.21.1",
